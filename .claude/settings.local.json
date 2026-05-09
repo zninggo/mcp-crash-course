@@ -3,7 +3,9 @@
     "allow": [
       "Bash(git *)",
       "Bash(uv run *)",
-      "Bash(timeout 5)"
+      "Bash(timeout 5)",
+      "mcp__context7__resolve-library-id",
+      "mcp__context7__query-docs"
     ]
   }
 }
